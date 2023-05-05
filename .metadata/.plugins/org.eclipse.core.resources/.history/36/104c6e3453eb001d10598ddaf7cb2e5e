@@ -1,0 +1,7 @@
+package com.Primitive_Datatypes;
+
+public class User {
+	private int ID;
+	private String Name;
+	private long Contact;
+}
