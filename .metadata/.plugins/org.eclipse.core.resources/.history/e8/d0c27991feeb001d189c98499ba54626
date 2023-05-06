@@ -1,0 +1,10 @@
+package com.CollectionType;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class App {
+	
+	ApplicationContext apc = new ClassPathXmlApplicationContext("com/CollectionType/CollectionType.xml");
+
+}

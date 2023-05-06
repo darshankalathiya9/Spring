@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd 
+	http://www.springframework.org/schema/context 
+	http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean>
+		<property name="ID" value="1" />
+		<property name="Name" value="DK" />
+		<property name="Contact">
+			<list>
+				<value>9624360699</value>
+				<value>8200199116</value>
+			</list>
+		</property>
+		<property name="Address">
+			<set>
+				<value>Bhavnagar</value>
+				<value>Surat</value>
+				<value>Rajpara(Bhayati)</value>
+			</set>
+		</property>
+		<property name="Account">
+			<map>
+				<entry key="1" value="SBI" />
+				<entry key="2" value="HDFC" />
+				<entry key="3" value="Paytm" />
+			</map>
+		</property>
+	</bean>
+	
+</beans>
