@@ -1,0 +1,12 @@
+package com.Constructor_Injection;
+
+public class User {
+	private int ID;
+	private String Name;
+	private double per;
+	
+	System.out.println("Set a Value by Defualt Constructor Arguments.");
+
+	
+	
+}
