@@ -1,0 +1,9 @@
+package com.Autowiring;
+
+public class Employee {
+	private int ID;
+	private String Name;
+	
+	private Address address;
+
+}
