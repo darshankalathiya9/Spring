@@ -1,3 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringCORE/src/main/java/com/Autowiring/Autowire.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/SpringCORE/src/main/java/com/CollectionType/CollectionType.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/SpringCORE/src/main/java/com/Primitive_NonPrimitive_Datatypes/Primitive_NonPrimitive_Datatype.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringCORE/src/main/java/com/SpringLifecycles/Lifecycle.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
