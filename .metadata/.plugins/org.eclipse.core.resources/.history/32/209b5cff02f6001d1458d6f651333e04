@@ -1,0 +1,14 @@
+package com.FullyAnnotation_RemoveXML;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = "com.FullyAnnotation_RemoveXML")
+public class JavaConfig {
+
+	public Student getStudent() {
+		return s1;
+		
+	}
+}
