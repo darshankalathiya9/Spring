@@ -1,8 +1,0 @@
-package com.Constructor_Injection;
-
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-public class App {
-	ApplicationContext apc = new ClassPathXmlApplicationContext("com/Constructor_Injection/Constructor_Injection.xml");
-}
