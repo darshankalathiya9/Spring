@@ -1,5 +1,7 @@
 package com.JDBC;
 
+import java.util.List;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -31,14 +33,24 @@ public class App {
 		/* Insert Opration */
 //		studentDao.insert(student);
 //		System.out.println("Student Added Sucessfully...");
-		 
+
 		/* Update Opration */
 //		studentDao.updateStudent(student);
 //		System.out.println(student.getID()+" Student Updated Successfully...");
-		
+
 		/* Delete Opration */
-		studentDao.deleteStudent(444);
-		System.out.println("Student Deleted Successfully...");
-		 
+//		studentDao.deleteStudent(444);
+//		System.out.println("Student Deleted Successfully...");
+
+		/* Select Opration(Single) */
+//		Student student = studentDao.getStudent(333);
+//		System.out.println(student);
+
+		/* Select All Student */
+		List<Student> list = studentDao.gatAllStudent();
+		for (Student student : list) {
+			System.out.println(student);
+		}
+
 	}
 }
