@@ -2262,3 +2262,91 @@
 2023-05-22 16:55:29,831 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
 2023-05-22 16:55:29,837 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-05-22 16:55:29,837 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:03:36,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:03:36,795 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:03:36,800 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:03:36,800 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:03:53,557 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:03:53,558 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:03:53,569 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:03:53,570 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:05:27,721 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:05:27,722 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:05:27,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:05:27,728 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:07:12,081 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:12,082 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:07:12,087 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:12,087 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:07:29,697 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:29,697 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:07:29,702 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:29,703 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:07:38,608 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:38,609 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:07:38,613 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:07:38,613 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:09:21,626 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:21,627 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:09:21,632 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:21,632 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:09:31,245 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:31,245 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:09:31,249 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:31,250 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:09:49,881 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:49,882 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:09:49,887 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:09:49,887 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:10:59,707 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:10:59,708 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:10:59,716 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:10:59,717 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:11:01,666 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:01,667 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:11:01,674 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:01,674 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:11:32,052 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:32,052 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:11:32,059 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:32,059 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:11:38,772 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:38,772 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:11:38,776 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:38,777 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:11:58,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:58,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:11:58,385 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:11:58,386 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:15:19,326 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:15:19,327 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:15:19,332 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:15:19,332 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:32:00,528 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:00,528 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:32:00,532 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:00,533 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:32:40,951 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:40,951 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:32:40,955 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:40,956 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:32:52,712 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:52,713 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:32:52,718 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:32:52,718 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:33:28,933 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:33:28,934 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:33:28,941 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:33:28,941 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:44:01,810 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:44:01,811 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:44:01,814 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:44:01,814 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:44:05,236 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:44:05,237 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:44:05,241 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:44:05,241 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources
+2023-05-22 17:45:00,180 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:45:00,180 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\resources
+2023-05-22 17:45:00,184 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-22 17:45:00,197 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\test\resources

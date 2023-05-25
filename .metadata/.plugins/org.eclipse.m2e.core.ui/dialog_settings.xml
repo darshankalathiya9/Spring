@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="G:\JAVA_FRAMWORK\SPRING\SpringJDBC\src\main\java\com\JDBC\Entity\Student.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
