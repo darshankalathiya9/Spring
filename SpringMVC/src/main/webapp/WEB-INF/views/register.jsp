@@ -11,11 +11,11 @@
 		<table>
 			<tr>
 				<td>Name :</td>
-				<td><input type="text" name="Name"></td>
+				<td><input type="text" name="name"></td>
 			</tr>
 			<tr>
 				<td>Address :</td>
-				<td><input type="text" name="Address"></td>
+				<td><input type="text" name="address"></td>
 			</tr>
 			<tr>
 				<td>Contact :</td>
@@ -23,11 +23,11 @@
 			</tr>
 			<tr>
 				<td>Email :</td>
-				<td><input type="email" name="Email"></td>
+				<td><input type="email" name="email"></td>
 			</tr>
 			<tr>
 				<td>Password :</td>
-				<td><input type="text" name="Password"></td>
+				<td><input type="text" name="password"></td>
 			</tr>
 			<tr>
 				<td><input type="submit"></td>

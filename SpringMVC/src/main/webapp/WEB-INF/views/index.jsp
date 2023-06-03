@@ -13,6 +13,7 @@
 	<h2><a href="register">Register....</a></h2>
 	<h2><a href="about">About.....</a></h2>
 	<h2><a href="contact">Contact.....</a></h2>
+	<h2><a href="home">Home.....</a></h2>
 	
 	<%-- <% String name = (String) request.getAttribute("name"); %>
 	<h2><%=name %></h2> --%>

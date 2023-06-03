@@ -9,62 +9,62 @@ import javax.persistence.Id;
 public class User {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	private int ID;
-	private String Name, Address, Email, Password;
-	private long Contact;
+	private int id;
+	private String name, address, email, password;
+	private long contact;
 
-	public int getID() {
-		return ID;
+	public int getId() {
+		return id;
 	}
 
-	public void setID(int iD) {
-		ID = iD;
+	public void setId(int id) {
+		this.id = id;
 	}
 
 	public String getName() {
-		return Name;
+		return name;
 	}
 
 	public void setName(String name) {
-		Name = name;
+		this.name = name;
 	}
 
 	public String getAddress() {
-		return Address;
+		return address;
 	}
 
 	public void setAddress(String address) {
-		Address = address;
+		this.address = address;
 	}
 
 	public String getEmail() {
-		return Email;
+		return email;
 	}
 
 	public void setEmail(String email) {
-		Email = email;
+		this.email = email;
 	}
 
 	public String getPassword() {
-		return Password;
+		return password;
 	}
 
 	public void setPassword(String password) {
-		Password = password;
+		this.password = password;
 	}
 
 	public long getContact() {
-		return Contact;
+		return contact;
 	}
 
 	public void setContact(long contact) {
-		Contact = contact;
+		this.contact = contact;
 	}
 
 	@Override
 	public String toString() {
-		return "User [ID=" + ID + ", Name=" + Name + ", Address=" + Address + ", Email=" + Email + ", Password="
-				+ Password + ", Contact=" + Contact + "]";
+		return "User [id=" + id + ", name=" + name + ", address=" + address + ", email=" + email + ", password="
+				+ password + ", contact=" + contact + "]";
 	}
 
 }
