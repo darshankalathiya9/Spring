@@ -1,11 +1,11 @@
-#Sat Jun 03 07:36:34 IST 2023
+#Mon Jun 05 18:20:11 IST 2023
 a=finishWizard
 c=0
 cl=org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard
 cmp=usage
 ct=jbt
-d=1685757994495
+d=1685969411823
 l=Wizard class name
-s=0
+s=1
 v=2.2.500
 vl=How many times the 'Finish' button pressed during the day
